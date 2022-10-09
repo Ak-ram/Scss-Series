@@ -1,3 +1,7 @@
+this article is also available here: [Sass: More about Nesting📚
+](https://dev.to/ak_ram/sass-more-about-nesting-492n)
+
+
 # Sass: More about Nesting📚
 ![ssjactc2qsy3romu6er1](https://user-images.githubusercontent.com/69124951/194769461-c03ca4de-fe33-426d-9aa7-e620fdede8bb.png)
 
