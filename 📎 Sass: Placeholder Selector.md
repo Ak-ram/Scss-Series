@@ -1,4 +1,4 @@
-This article avilable here: https://dev.to/ak_ram/sass-placeholder-selector-4cj8
+this article is also available here: [📎 Sass: Placeholder Selector.md](https://dev.to/ak_ram/sass-placeholder-selector-4cj8)
 
 ![# SASS (1)](https://user-images.githubusercontent.com/69124951/195593456-426af6c5-0966-45a1-abde-8a089ece50c0.png)
 
